@@ -1,0 +1,4 @@
+﻿2022-05-06 20:06:33,510 [5] INFO  WebSocketServer-4032828 - The server instance WebSocketServer-4032828 has been started!
+2022-05-06 20:06:33,573 [5] INFO  WebSocketServer-12053474 - The server instance WebSocketServer-12053474 has been started!
+2022-05-06 20:06:38,914 [11] INFO  WebSocketServer-12053474 - Session: dc2097d2-493e-4c30-8fe8-54e8979742c3/127.0.0.1:59840
+A new session connected!

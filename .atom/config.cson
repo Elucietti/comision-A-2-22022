@@ -1,0 +1,7 @@
+"*":
+  "atom-i18n":
+    customMenuI18nPath: "C:\\Users\\Usuario\\.atom\\packages\\atom-i18n\\def\\custom_menu.cson"
+    locale: "es"
+  core: {}
+  "exception-reporting":
+    userId: "1a5b10f1-aa0c-4959-bdaf-e1697bc21764"

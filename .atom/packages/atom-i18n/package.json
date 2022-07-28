@@ -1,0 +1,211 @@
+{
+  "_from": "https://www.atom.io/api/packages/atom-i18n/versions/0.26.1/tarball",
+  "_id": "atom-i18n@0.26.1",
+  "_inBundle": false,
+  "_integrity": "sha512-s+AcOb58+4BOuDMRwchhEJmKrR8lM4WvDgwjETaZnTNbg4E/jr5Aa1TWeINARtfKsl5cYJH2euj6Nry3hg6zfg==",
+  "_location": "/atom-i18n",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/atom-i18n/versions/0.26.1/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/atom-i18n/versions/0.26.1/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/atom-i18n/versions/0.26.1/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/atom-i18n/versions/0.26.1/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/atom-i18n/versions/0.26.1/tarball",
+  "_shasum": "e1b4d3bf835e49f5bffcd47097e16daa677c6b0e",
+  "_spec": "https://www.atom.io/api/packages/atom-i18n/versions/0.26.1/tarball",
+  "_where": "C:\\Users\\Usuario\\AppData\\Local\\Temp\\apm-install-dir-20211116-12240-qpp2q4.qm03j",
+  "bugs": {
+    "url": "https://github.com/liuderchi/atom-i18n/issues"
+  },
+  "bundleDependencies": false,
+  "configSchema": {
+    "locale": {
+      "type": "string",
+      "default": "template",
+      "title": "Language",
+      "description": "Language for internationalization (sorted by <em>locale code</em>).</br>Please <code>Reload Atom</code> after changing locale.",
+      "enum": [
+        {
+          "value": "ar",
+          "description": "اللغة العربية (ar)"
+        },
+        {
+          "value": "be",
+          "description": "Беларуская мова (be)"
+        },
+        {
+          "value": "cs",
+          "description": "Čeština (cs)"
+        },
+        {
+          "value": "de",
+          "description": "Deutsch (de)"
+        },
+        {
+          "value": "eo",
+          "description": "Esperanto (eo)"
+        },
+        {
+          "value": "es",
+          "description": "Español (es)"
+        },
+        {
+          "value": "fa",
+          "description": "زبان فارسی (fa)"
+        },
+        {
+          "value": "fi",
+          "description": "suomi (fi)"
+        },
+        {
+          "value": "fr",
+          "description": "Français (fr)"
+        },
+        {
+          "value": "he",
+          "description": "עברית (he)"
+        },
+        {
+          "value": "hi",
+          "description": "हिन्दी (hi)"
+        },
+        {
+          "value": "hu",
+          "description": "Magyar (hu)"
+        },
+        {
+          "value": "it",
+          "description": "Italiano (it)"
+        },
+        {
+          "value": "ja",
+          "description": "日本語 (ja)"
+        },
+        {
+          "value": "kn",
+          "description": "ಕನ್ನಡ (kn)"
+        },
+        {
+          "value": "ko",
+          "description": "한국어 (ko)"
+        },
+        {
+          "value": "ms",
+          "description": "Bahasa Melayu (ms)"
+        },
+        {
+          "value": "nl",
+          "description": "Nederlands (nl)"
+        },
+        {
+          "value": "pl",
+          "description": "Polski (pl)"
+        },
+        {
+          "value": "pt-br",
+          "description": "Português(Brazil) (pt-br)"
+        },
+        {
+          "value": "ro",
+          "description": "Română (ro)"
+        },
+        {
+          "value": "ru",
+          "description": "Ру́сский (ru)"
+        },
+        {
+          "value": "sk",
+          "description": "Slovenčina (sk)"
+        },
+        {
+          "value": "sq",
+          "description": "Shqipe (sq)"
+        },
+        {
+          "value": "th",
+          "description": "ภาษาไทย (th)"
+        },
+        {
+          "value": "uk",
+          "description": "Українська мова (uk)"
+        },
+        {
+          "value": "zh-cn",
+          "description": "简体中文 (zh-cn)"
+        },
+        {
+          "value": "zh-tw",
+          "description": "繁體中文 (zh-tw)"
+        },
+        {
+          "value": "template",
+          "description": "English (en)"
+        }
+      ]
+    },
+    "customMenuI18nPath": {
+      "type": "string",
+      "default": "",
+      "title": "Custom Translation for Menu",
+      "description": "Translate community package (like <code>Minimap</code>) in menu bar by editing this file.</br> You can open it by command <code>atom-i18n:open-custom-menu-i18n-file</code>"
+    }
+  },
+  "dependencies": {
+    "cson": "^7.20.0"
+  },
+  "deprecated": false,
+  "description": "Localize Atom for your locale. One i18n package for any language. Community-driven translation.",
+  "devDependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6",
+    "@babel/register": "^7.15.3",
+    "chai": "^4.3.4",
+    "core-js": "^3.18.0",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "husky": "^7.0.2",
+    "isomorphic-fetch": "^3.0.0",
+    "lint-staged": "^11.1.2",
+    "mocha": "^9.1.1",
+    "prettier": "2.4.1",
+    "regenerator-runtime": "^0.13.9",
+    "yargs": "^17.1.1"
+  },
+  "engines": {
+    "atom": ">=1.16.0 <2.0.0"
+  },
+  "homepage": "https://github.com/liuderchi/atom-i18n#readme",
+  "keywords": [
+    "atom",
+    "i18n",
+    "l10n",
+    "internationalization",
+    "localization",
+    "language",
+    "translate",
+    "translation"
+  ],
+  "license": "MIT",
+  "lint-staged": {
+    "**/*": "prettier --write --ignore-unknown"
+  },
+  "main": "./lib/main",
+  "name": "atom-i18n",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuderchi/atom-i18n.git"
+  },
+  "scripts": {
+    "lint": "eslint lib spec",
+    "prepare": "husky install",
+    "prettier:write": "prettier --write .",
+    "validation": "mocha --require @babel/register spec/validation.js"
+  },
+  "version": "0.26.1"
+}

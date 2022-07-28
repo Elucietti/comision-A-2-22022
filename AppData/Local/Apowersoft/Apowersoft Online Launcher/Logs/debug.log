@@ -1,0 +1,12 @@
+﻿2022-05-28 16:59:55,137 [5] DEBUG WebSocketServer-4032828 - SubProtocol Basic found the commands: []
+2022-05-28 16:59:55,168 [5] DEBUG WebSocketServer-4032828 - Listener (127.0.0.1:18600) was started
+2022-05-28 16:59:55,215 [5] DEBUG WebSocketServer-12053474 - SubProtocol Basic found the commands: []
+2022-05-28 16:59:55,216 [5] DEBUG WebSocketServer-12053474 - Listener (127.0.0.1:18610) was started
+2022-05-28 17:00:07,778 [5] DEBUG WebSocketServer-4032828 - SubProtocol Basic found the commands: []
+2022-05-28 17:00:07,794 [5] DEBUG WebSocketServer-4032828 - Listener (127.0.0.1:18600) was started
+2022-05-28 17:00:07,841 [5] DEBUG WebSocketServer-12053474 - SubProtocol Basic found the commands: []
+2022-05-28 17:00:07,841 [5] DEBUG WebSocketServer-12053474 - Listener (127.0.0.1:18610) was started
+2022-05-28 17:03:24,865 [5] DEBUG WebSocketServer-4032828 - SubProtocol Basic found the commands: []
+2022-05-28 17:03:24,897 [5] DEBUG WebSocketServer-4032828 - Listener (127.0.0.1:18600) was started
+2022-05-28 17:03:24,928 [5] DEBUG WebSocketServer-12053474 - SubProtocol Basic found the commands: []
+2022-05-28 17:03:24,944 [5] DEBUG WebSocketServer-12053474 - Listener (127.0.0.1:18610) was started

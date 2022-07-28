@@ -1,0 +1,12 @@
+﻿2022-05-08 01:03:03,990 [110] INFO  WebSocketServer-12053474 - Session: fff7405f-669c-477e-bf5b-e8fe65573af7/127.0.0.1:63955
+A new session connected!
+2022-05-08 01:54:44,097 [67] INFO  WebSocketServer-12053474 - Session: fff7405f-669c-477e-bf5b-e8fe65573af7/127.0.0.1:63955
+This session was closed for ClientClosing!
+2022-05-08 10:45:57,649 [67] INFO  WebSocketServer-12053474 - Session: ced0e65d-2a8c-401c-ba9a-ed7e44b7637c/127.0.0.1:64643
+A new session connected!
+2022-05-08 10:51:03,136 [44] INFO  WebSocketServer-12053474 - Session: ced0e65d-2a8c-401c-ba9a-ed7e44b7637c/127.0.0.1:64643
+This session was closed for ClientClosing!
+2022-05-08 12:52:19,338 [33] INFO  WebSocketServer-12053474 - Session: b8bc3eb9-81a5-469a-bd59-d421e266fb10/127.0.0.1:64915
+A new session connected!
+2022-05-08 12:58:15,353 [10] INFO  WebSocketServer-12053474 - Session: b8bc3eb9-81a5-469a-bd59-d421e266fb10/127.0.0.1:64915
+This session was closed for ClientClosing!

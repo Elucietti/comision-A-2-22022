@@ -1,0 +1,26 @@
+﻿2022-05-07 02:25:19,069 [78] INFO  WebSocketServer-12053474 - Session: dc2097d2-493e-4c30-8fe8-54e8979742c3/127.0.0.1:59840
+This session was closed for ClientClosing!
+2022-05-07 02:26:48,112 [78] INFO  WebSocketServer-12053474 - Session: 7a711c7d-13d0-4ec0-9650-bebb704ac96f/127.0.0.1:61510
+A new session connected!
+2022-05-07 02:53:14,851 [50] INFO  WebSocketServer-12053474 - Session: 7a711c7d-13d0-4ec0-9650-bebb704ac96f/127.0.0.1:61510
+This session was closed for ClientClosing!
+2022-05-07 10:04:05,826 [76] INFO  WebSocketServer-12053474 - Session: 02588829-d242-43a0-8769-0261e0d51a8e/127.0.0.1:61816
+A new session connected!
+2022-05-07 10:23:35,695 [35] INFO  WebSocketServer-12053474 - Session: 02588829-d242-43a0-8769-0261e0d51a8e/127.0.0.1:61816
+This session was closed for ClientClosing!
+2022-05-07 10:58:42,899 [42] INFO  WebSocketServer-12053474 - Session: 2c233d05-8bcf-48e1-8814-83ef4cce10af/127.0.0.1:62333
+A new session connected!
+2022-05-07 11:48:04,597 [55] INFO  WebSocketServer-12053474 - Session: 2c233d05-8bcf-48e1-8814-83ef4cce10af/127.0.0.1:62333
+This session was closed for ClientClosing!
+2022-05-07 11:49:20,857 [55] INFO  WebSocketServer-12053474 - Session: 10031c06-711e-44ff-8ff2-c310f2afa490/127.0.0.1:62726
+A new session connected!
+2022-05-07 12:42:16,346 [29] INFO  WebSocketServer-12053474 - Session: 10031c06-711e-44ff-8ff2-c310f2afa490/127.0.0.1:62726
+This session was closed for ClientClosing!
+2022-05-07 12:43:04,876 [29] INFO  WebSocketServer-12053474 - Session: cd991d0e-6e97-4f29-8639-f15c9af800ad/127.0.0.1:63024
+A new session connected!
+2022-05-07 14:25:19,577 [118] INFO  WebSocketServer-12053474 - Session: cd991d0e-6e97-4f29-8639-f15c9af800ad/127.0.0.1:63024
+This session was closed for ClientClosing!
+2022-05-07 16:09:20,301 [115] INFO  WebSocketServer-12053474 - Session: 0534467d-7b32-4079-a57e-16dca68b4c1a/127.0.0.1:63645
+A new session connected!
+2022-05-07 16:20:24,633 [110] INFO  WebSocketServer-12053474 - Session: 0534467d-7b32-4079-a57e-16dca68b4c1a/127.0.0.1:63645
+This session was closed for ClientClosing!

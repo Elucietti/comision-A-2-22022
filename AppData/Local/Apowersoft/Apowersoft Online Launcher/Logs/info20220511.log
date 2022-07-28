@@ -1,0 +1,8 @@
+﻿2022-05-11 02:35:30,260 [21] INFO  WebSocketServer-12053474 - Session: 7bc1ac5c-e0d6-4f0d-962a-3d187bfcebf9/127.0.0.1:54767
+This session was closed for ClientClosing!
+2022-05-11 10:56:07,597 [21] INFO  WebSocketServer-12053474 - Session: 31c1c6c7-c5f4-45ac-bf50-4351555445d8/127.0.0.1:57108
+A new session connected!
+2022-05-11 12:06:56,135 [59] INFO  WebSocketServer-12053474 - Session: 31c1c6c7-c5f4-45ac-bf50-4351555445d8/127.0.0.1:57108
+This session was closed for ClientClosing!
+2022-05-11 15:11:43,500 [9] INFO  WebSocketServer-12053474 - Session: fd349b25-9cd4-46d9-9d54-5d47234a2418/127.0.0.1:57863
+A new session connected!

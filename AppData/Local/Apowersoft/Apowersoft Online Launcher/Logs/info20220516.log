@@ -1,0 +1,8 @@
+﻿2022-05-16 00:16:04,101 [75] INFO  WebSocketServer-12053474 - Session: 039402ac-c6a8-4a3e-bd8e-6a2a8bb8e857/127.0.0.1:60919
+A new session connected!
+2022-05-16 00:48:14,936 [65] INFO  WebSocketServer-12053474 - Session: 039402ac-c6a8-4a3e-bd8e-6a2a8bb8e857/127.0.0.1:60919
+This session was closed for ClientClosing!
+2022-05-16 11:28:37,086 [62] INFO  WebSocketServer-12053474 - Session: a1789d20-de23-4eff-8e24-bbbf623f5a2e/127.0.0.1:61802
+A new session connected!
+2022-05-16 11:37:22,868 [10] INFO  WebSocketServer-12053474 - Session: a1789d20-de23-4eff-8e24-bbbf623f5a2e/127.0.0.1:61802
+This session was closed for ClientClosing!
